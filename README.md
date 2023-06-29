@@ -70,9 +70,3 @@ V免签 是基于SpringBoot 2.1.1/ThinkPhP5.1 实现的一套免签支付程序�
 ## 版权信息
 
 V免签遵循 MIT License 开源协议发布，并提供免费使用，请勿用于非法用途。
-
-
-版权所有Copyright © 2019 by vone (http://szvone.cn)
-
-All rights reserved。
-
